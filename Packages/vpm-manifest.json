@@ -11,6 +11,12 @@
     },
     "com.vrcfury.vrcfury": {
       "version": "1.388.0"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.4.0"
+    },
+    "jp.lilxyzw.avatar-utils": {
+      "version": "1.0.3"
     }
   },
   "locked": {
@@ -38,6 +44,14 @@
     },
     "com.vrcfury.vrcfury": {
       "version": "1.401.0",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.4.0",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.avatar-utils": {
+      "version": "1.0.3",
       "dependencies": {}
     }
   }
