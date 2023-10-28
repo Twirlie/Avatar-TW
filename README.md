@@ -2,7 +2,7 @@
 
 This template sets up a VRChat Project
 
-Includes Gesture Emulator, VRC Fury, Modular Avatar
+Includes Gesture Emulator, VRC Fury, Modular Avatar, liltoon
 
 Package Name: com.vrchat.templates.twirlieavatar
 Package Version: 1.0.1
