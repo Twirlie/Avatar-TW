@@ -22,7 +22,7 @@ The template should be usable when you create a new project.
 
 ## Folder Structure
 
-Icluded is a reccomended folder structure to keep your assets organized. You don't have to follow it but I find it very useful!
+Included is a reccomended folder structure to keep your assets organized. You don't have to follow it but I find it very useful!
 
 * Assets
   * Attatchments - For Parts, Hairs, Clothing, Accessories
