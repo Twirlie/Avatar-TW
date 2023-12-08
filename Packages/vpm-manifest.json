@@ -1,8 +1,5 @@
 {
   "dependencies": {
-    "com.vrchat.avatars": {
-      "version": "3.2.3"
-    },
     "vrchat.blackstartx.gesture-manager": {
       "version": "3.8.5"
     },
@@ -38,19 +35,15 @@
     },
     "dev.hai-vr.blendtree-viewer": {
       "version": "1.0.7"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.27"
+    },
+    "com.vrchat.avatars": {
+      "version": "3.5.0"
     }
   },
   "locked": {
-    "com.vrchat.avatars": {
-      "version": "3.4.1",
-      "dependencies": {
-        "com.vrchat.base": "3.4.1"
-      }
-    },
-    "com.vrchat.base": {
-      "version": "3.4.1",
-      "dependencies": {}
-    },
     "vrchat.blackstartx.gesture-manager": {
       "version": "3.8.7",
       "dependencies": {
@@ -123,6 +116,20 @@
     },
     "dev.hai-vr.blendtree-viewer": {
       "version": "1.0.7",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.27",
+      "dependencies": {}
+    },
+    "com.vrchat.avatars": {
+      "version": "3.5.0",
+      "dependencies": {
+        "com.vrchat.base": "3.5.0"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.5.0",
       "dependencies": {}
     }
   }
