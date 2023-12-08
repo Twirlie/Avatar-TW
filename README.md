@@ -1,11 +1,8 @@
-# vrc-template-Avatar
+# Twirlie's Avatar Template
 
 This template sets up a VRChat Project
 
 Includes Gesture Manager, VRC Fury, Modular Avatar, liltoon, packages by [Haï~](https://docs.hai-vr.dev/docs/products)
-
-Package Name: com.vrchat.templates.twirlieavatar
-Package Version: 1.0.1
 
 ## Included Packages
 

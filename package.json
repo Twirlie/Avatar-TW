@@ -1,8 +1,8 @@
 {
 	"name" : "com.vrchat.template.twirlieavatar",
 	"displayName" : "Twirlie's Avatar Template",
-	"description" : "includes gesture emulator, modular avatar, vrc fury",
-	"version" : "1.0.2",
+	"description" : "Includes Gesture Manager, VRC Fury, Modular Avatar, liltoon, packages by Haï~",
+	"version" : "1.0.3",
 	"category" : "ProjectTemplate",
 	"dependencies" : {}
 }
