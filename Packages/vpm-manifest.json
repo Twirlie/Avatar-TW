@@ -17,6 +17,27 @@
     },
     "jp.lilxyzw.avatar-utils": {
       "version": "1.0.3"
+    },
+    "dev.hai-vr.blendshape-viewer": {
+      "version": "2.0.3"
+    },
+    "dev.hai-vr.animation-viewer": {
+      "version": "2.0.3"
+    },
+    "dev.hai-vr.visual-expressions-editor": {
+      "version": "2.0.3"
+    },
+    "dev.hai-vr.lightbox-viewer": {
+      "version": "2.0.2"
+    },
+    "dev.hai-vr.fuck-osc-config": {
+      "version": "1.1.2"
+    },
+    "dev.hai-vr.property-finder": {
+      "version": "2.0.3"
+    },
+    "dev.hai-vr.blendtree-viewer": {
+      "version": "1.0.7"
     }
   },
   "locked": {
@@ -57,6 +78,51 @@
     },
     "nadena.dev.ndmf": {
       "version": "1.2.5",
+      "dependencies": {}
+    },
+    "dev.hai-vr.blendshape-viewer": {
+      "version": "2.0.3",
+      "dependencies": {
+        "dev.hai-vr.resilience.toolkit": "1.0.x"
+      }
+    },
+    "dev.hai-vr.resilience.toolkit": {
+      "version": "1.0.1",
+      "dependencies": {}
+    },
+    "dev.hai-vr.animation-viewer": {
+      "version": "2.0.3",
+      "dependencies": {
+        "dev.hai-vr.resilience.toolkit": "1.0.x"
+      }
+    },
+    "dev.hai-vr.visual-expressions-editor": {
+      "version": "2.0.3",
+      "dependencies": {
+        "dev.hai-vr.resilience.toolkit": "1.0.x"
+      }
+    },
+    "dev.hai-vr.lightbox-viewer": {
+      "version": "2.0.2",
+      "dependencies": {
+        "dev.hai-vr.resilience.toolkit": "1.0.x"
+      }
+    },
+    "dev.hai-vr.fuck-osc-config": {
+      "version": "1.1.2",
+      "dependencies": {
+        "dev.hai-vr.resilience.toolkit": "1.0.x",
+        "com.vrchat.avatars": ">=3.1.0 <3.5.0"
+      }
+    },
+    "dev.hai-vr.property-finder": {
+      "version": "2.0.3",
+      "dependencies": {
+        "dev.hai-vr.resilience.toolkit": "1.0.x"
+      }
+    },
+    "dev.hai-vr.blendtree-viewer": {
+      "version": "1.0.7",
       "dependencies": {}
     }
   }

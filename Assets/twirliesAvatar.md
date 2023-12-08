@@ -1,6 +1,14 @@
 # Twirlie's Avatar Template
 
-Includes gesture emulator, modular avatar, vrc fury, liltoon
+Includes Gesture Manager, VRC Fury, Modular Avatar, liltoon, packages by [Haï~](https://docs.hai-vr.dev/docs/products)
+
+## Included Packages
+
+* [Gesture Manager](https://github.com/BlackStartx/VRC-Gesture-Manager)
+* [VRC Fury](https://vrcfury.com/)
+* [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro)
+* [liltoon](https://lilxyzw.github.io/lilToon/#/)
+* [various packages by Haï~](https://docs.hai-vr.dev/docs/products)
 
 ## Folder Structure
 

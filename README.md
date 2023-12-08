@@ -2,10 +2,18 @@
 
 This template sets up a VRChat Project
 
-Includes Gesture Emulator, VRC Fury, Modular Avatar, liltoon
+Includes Gesture Manager, VRC Fury, Modular Avatar, liltoon, packages by [Haï~](https://docs.hai-vr.dev/docs/products)
 
 Package Name: com.vrchat.templates.twirlieavatar
 Package Version: 1.0.1
+
+## Included Packages
+
+* [Gesture Manager](https://github.com/BlackStartx/VRC-Gesture-Manager)
+* [VRC Fury](https://vrcfury.com/)
+* [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro)
+* [liltoon](https://lilxyzw.github.io/lilToon/#/)
+* various packages by [Haï~](https://docs.hai-vr.dev/docs/products)
 
 ## Install 
 

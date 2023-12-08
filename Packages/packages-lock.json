@@ -62,6 +62,15 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.postprocessing": {
+      "version": "3.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.test-framework": {
       "version": "1.1.27",
       "depth": 0,
@@ -144,6 +153,54 @@
         "com.unity.mathematics": "1.2.5",
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
+    },
+    "dev.hai-vr.animation-viewer": {
+      "version": "file:dev.hai-vr.animation-viewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.blendshape-viewer": {
+      "version": "file:dev.hai-vr.blendshape-viewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.blendtree-viewer": {
+      "version": "file:dev.hai-vr.blendtree-viewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.fuck-osc-config": {
+      "version": "file:dev.hai-vr.fuck-osc-config",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.lightbox-viewer": {
+      "version": "file:dev.hai-vr.lightbox-viewer",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.property-finder": {
+      "version": "file:dev.hai-vr.property-finder",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.resilience.toolkit": {
+      "version": "file:dev.hai-vr.resilience.toolkit",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "dev.hai-vr.visual-expressions-editor": {
+      "version": "file:dev.hai-vr.visual-expressions-editor",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "jp.lilxyzw.avatar-utils": {
       "version": "file:jp.lilxyzw.avatar-utils",
