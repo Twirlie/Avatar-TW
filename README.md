@@ -5,6 +5,7 @@ This template sets up a VRChat Project
 Includes Gesture Manager, VRC Fury, Modular Avatar, liltoon, packages by [Haï~](https://docs.hai-vr.dev/docs/products)
 
 ## Included Packages
+included packages are defined in the [vpm-manifest.json](Packages/vpm-manifest.json)
 
 * [Gesture Manager](https://github.com/BlackStartx/VRC-Gesture-Manager)
 * [VRC Fury](https://vrcfury.com/)
