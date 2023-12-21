@@ -41,6 +41,9 @@
     },
     "com.vrchat.avatars": {
       "version": "3.5.0"
+    },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "version": "1.3.5"
     }
   },
   "locked": {
@@ -51,18 +54,18 @@
       }
     },
     "nadena.dev.modular-avatar": {
-      "version": "1.8.3",
+      "version": "1.8.4",
       "dependencies": {
         "com.vrchat.avatars": ">=3.2.0",
         "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a"
       }
     },
     "com.vrcfury.vrcfury": {
-      "version": "1.626.0",
+      "version": "1.648.0",
       "dependencies": {}
     },
     "jp.lilxyzw.liltoon": {
-      "version": "1.4.1",
+      "version": "1.5.0",
       "dependencies": {}
     },
     "jp.lilxyzw.avatar-utils": {
@@ -130,6 +133,10 @@
     },
     "com.vrchat.base": {
       "version": "3.5.0",
+      "dependencies": {}
+    },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "version": "1.3.5",
       "dependencies": {}
     }
   }
