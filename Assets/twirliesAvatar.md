@@ -8,7 +8,9 @@ Includes Gesture Manager, VRC Fury, Modular Avatar, liltoon, packages by [Haï~]
 * [VRC Fury](https://vrcfury.com/)
 * [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro)
 * [liltoon](https://lilxyzw.github.io/lilToon/#/)
-* [various packages by Haï~](https://docs.hai-vr.dev/docs/products)
+* various packages by [Haï~](https://docs.hai-vr.dev/docs/products)
+* [Thry's avatar performance tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools)
+* [Skinned mesh combiner](https://booth.pm/ja/items/4664467)
 
 ## Folder Structure
 

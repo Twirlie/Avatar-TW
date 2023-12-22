@@ -12,6 +12,8 @@ included packages are defined in the [vpm-manifest.json](Packages/vpm-manifest.j
 * [Modular Avatar](https://modular-avatar.nadena.dev/docs/intro)
 * [liltoon](https://lilxyzw.github.io/lilToon/#/)
 * various packages by [Haï~](https://docs.hai-vr.dev/docs/products)
+* [Thry's avatar performance tools](https://github.com/Thryrallo/VRC-Avatar-Performance-Tools)
+* [Skinned mesh combiner](https://booth.pm/ja/items/4664467)
 
 ## Install 
 

@@ -209,6 +209,12 @@
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
     },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "version": "file:de.thryrallo.vrc.avatar-performance-tools",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "dev.hai-vr.animation-viewer": {
       "version": "file:dev.hai-vr.animation-viewer",
       "depth": 0,
