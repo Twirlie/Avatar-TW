@@ -37,4 +37,4 @@ Included is a reccomended folder structure to keep your assets organized. You do
   * Avatar - For the Base Avatar itself
   * Tools - For imported Unity Editor Tools and Shaders
   * Scene - For saving your scenes
-
+* AvatarFiles - use this for avatar source files.
