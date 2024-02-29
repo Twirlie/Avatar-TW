@@ -3,20 +3,8 @@
     "vrchat.blackstartx.gesture-manager": {
       "version": "3.8.5"
     },
-    "nadena.dev.modular-avatar": {
-      "version": "1.7.3"
-    },
-    "com.vrcfury.vrcfury": {
-      "version": "1.388.0"
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "1.4.0"
-    },
     "jp.lilxyzw.avatar-utils": {
       "version": "1.0.3"
-    },
-    "dev.hai-vr.blendshape-viewer": {
-      "version": "2.0.3"
     },
     "dev.hai-vr.animation-viewer": {
       "version": "2.0.3"
@@ -37,13 +25,31 @@
       "version": "1.0.7"
     },
     "com.vrchat.core.vpm-resolver": {
-      "version": "0.1.27"
+      "version": "0.1.28"
+    },
+    "com.vrchat.base": {
+      "version": "3.5.1"
     },
     "com.vrchat.avatars": {
-      "version": "3.5.0"
+      "version": "3.5.1"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.795.0"
     },
     "de.thryrallo.vrc.avatar-performance-tools": {
-      "version": "1.3.5"
+      "version": "1.3.6"
+    },
+    "dev.hai-vr.blendshape-viewer": {
+      "version": "2.1.1"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.7.2"
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.9.4"
+    },
+    "d4rkpl4y3r.d4rkavataroptimizer": {
+      "version": "3.5.0"
     }
   },
   "locked": {
@@ -53,34 +59,9 @@
         "com.vrchat.avatars": "3.2.x || 3.3.x || 3.4.x || 3.5.x"
       }
     },
-    "nadena.dev.modular-avatar": {
-      "version": "1.8.4",
-      "dependencies": {
-        "com.vrchat.avatars": ">=3.2.0",
-        "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a"
-      }
-    },
-    "com.vrcfury.vrcfury": {
-      "version": "1.692.0",
-      "dependencies": {}
-    },
-    "jp.lilxyzw.liltoon": {
-      "version": "1.6.0",
-      "dependencies": {}
-    },
     "jp.lilxyzw.avatar-utils": {
       "version": "1.1.0",
       "dependencies": {}
-    },
-    "nadena.dev.ndmf": {
-      "version": "1.2.5",
-      "dependencies": {}
-    },
-    "dev.hai-vr.blendshape-viewer": {
-      "version": "2.0.3",
-      "dependencies": {
-        "dev.hai-vr.resilience.toolkit": "1.0.x"
-      }
     },
     "dev.hai-vr.resilience.toolkit": {
       "version": "1.0.1",
@@ -122,21 +103,50 @@
       "dependencies": {}
     },
     "com.vrchat.core.vpm-resolver": {
-      "version": "0.1.27",
+      "version": "0.1.28",
+      "dependencies": {}
+    },
+    "com.vrchat.base": {
+      "version": "3.5.1",
       "dependencies": {}
     },
     "com.vrchat.avatars": {
-      "version": "3.5.0",
+      "version": "3.5.1",
       "dependencies": {
-        "com.vrchat.base": "3.5.0"
+        "com.vrchat.base": "3.5.1"
       }
     },
-    "com.vrchat.base": {
-      "version": "3.5.0",
+    "com.vrcfury.vrcfury": {
+      "version": "1.795.0",
       "dependencies": {}
     },
     "de.thryrallo.vrc.avatar-performance-tools": {
-      "version": "1.3.5",
+      "version": "1.3.6",
+      "dependencies": {}
+    },
+    "dev.hai-vr.blendshape-viewer": {
+      "version": "2.1.1",
+      "dependencies": {
+        "dev.hai-vr.resilience.toolkit": "1.0.x"
+      }
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.7.2",
+      "dependencies": {}
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.9.4",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.4.0",
+        "nadena.dev.ndmf": ">=1.3.6 <2.0.0-a"
+      }
+    },
+    "nadena.dev.ndmf": {
+      "version": "1.3.6",
+      "dependencies": {}
+    },
+    "d4rkpl4y3r.d4rkavataroptimizer": {
+      "version": "3.5.0",
       "dependencies": {}
     }
   }
